@@ -1,0 +1,21 @@
+
+P
+ src/Ejercicio_1/Ejercicio_1.java,c\b\cb10702f2d9a41d4de27e9a6e5ac1008665f3c8c
+P
+ src/Ejercicio_2/Ejercicio_2.java,b\6\b699268b28fc68b508c88427bd787b57ee97c772
+P
+ src/Ejercicio_4/Ejercicio_4.java,3\6\363c21905fafcb572bd872f0d7b3ce17dcc28a19
+P
+ src/Ejercicio_3/Ejercicio_3.java,f\3\f3d30c16f1ab858da5f107ff3004cf138f9e1eed
+P
+ src/Ejercicio_5/Ejercicio_5.java,4\1\41696cc50a1779affba852dacee653d2b1fd01ea
+P
+ src/Ejercicio_6/Ejercicio_6.java,4\b\4b73af76b7d1ed1460f407968e0629fa9eff2e86
+P
+ src/Ejercicio_7/Ejercicio_7.java,8\4\845053267c45da5329898b3eae425093741a2008
+P
+ src/Ejercicio_8/Ejercicio_8.java,d\1\d1cd2d3be6bda8e23a64c754df2eb36cadacf47b
+P
+ src/Ejercicio_9/Ejercicio_9.java,e\b\eb7496dd9cdf7f37ed421b152fe967521eb76fe7
+R
+"src/Ejercicio_10/Ejercicio_10.java,3\b\3b68cff0911ef72bd593e6e7805c7c9bd79dde17
